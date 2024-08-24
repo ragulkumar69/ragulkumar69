@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ragulkumar69
-- 👀 I’m interested in Website Developer
-- 🌱 I’m currently learning Full Stack Developer @2021
-- 💞️ I’m looking to collaborate on Website Desiger
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working as a Senior Software Engineer @capgemini
+- 💞️ I’m looking to collaborate with a Website Designer. @2024
 - 📫 How to reach me ragulkumara888@gmail.com
 
 <!---
